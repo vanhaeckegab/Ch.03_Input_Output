@@ -1,5 +1,12 @@
 <img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/3-printinginput" target="_blank">Chapter 3 Printing and User Input</a></H2>
 
+In this chapter you will be learning about PRINT statements and asking for user data using INPUT statements. 
 
 
-In this Jedi Task you will be learning about print statements and getting user input data. You will be creating three calculator programs.
+<h3>Jedi Tasks</h3>
+<ol>
+  <li>Temperature Program</li>
+  <li>Trapezoid Area Program</li>
+  <li>Grading Program</li>
+  <li>Take Home Quiz</li>
+  </ol>
