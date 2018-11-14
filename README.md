@@ -6,7 +6,7 @@ In this chapter you will be learning about PRINT statements and asking for user 
 <h3>Jedi Tasks</h3>
 <ol>
   <li>Temperature Program</li>
-  <li>Trapezoid Area Program</li>
+  <li>Trapezoid Program</li>
   <li>Grading Program</li>
-  <li>Take Home Quiz</li>
+  <li>Take Home Test</li>
   </ol>
