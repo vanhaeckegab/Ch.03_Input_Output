@@ -1,4 +1,4 @@
-<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/3-printinginput" target="_blank">Chapter 3 Input/Output</a></H2>
+<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2><a href="https://sites.google.com/urbandaleschools.com/pythonjedi/3-inputoutput" target="_blank">Chapter 3 Input/Output</a></H2>
 
 In this chapter you will be learning about PRINT statements and asking for user data using INPUT statements. 
 
