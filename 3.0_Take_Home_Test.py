@@ -9,7 +9,7 @@ but I will definitely not ask another person except the instructor. Signed: ____
 
 
 '''
-2. How do you enter a comment in a program?
+2. Write a program that asks someone for their name and then prints their name to the screen?
 
 '''
 
@@ -29,8 +29,8 @@ print (17%9)
 
 
 '''
-5. Why does this code not work?
-A=22
+5. Change this program so it works.
+A=May the Force be with you!
 print(a)
 '''
 
