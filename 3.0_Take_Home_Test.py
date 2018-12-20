@@ -15,7 +15,7 @@ but I will definitely not ask another person except the instructor. Signed: ____
 
 
 '''
-3. Predict the ouput of the following lines of code and then test them? Write down your prediction and the output.
+3. Predict the output of the following lines of code and then test them? Write down your prediction and the output.
 print (17/9)
 print (17//9)
 print (17%9)
