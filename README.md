@@ -5,8 +5,8 @@ In this chapter you will be learning about PRINT statements and asking for user 
 
 <h3>Jedi Tasks</h3>
 <ol>
+   <li>Jedi Training</li>
   <li>Temperature Program</li>
   <li>Trapezoid Program</li>
   <li>Grading Program</li>
-  <li>Jedi Training</li>
   </ol>
