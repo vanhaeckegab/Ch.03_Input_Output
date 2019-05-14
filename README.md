@@ -8,5 +8,5 @@ In this chapter you will be learning about PRINT statements and asking for user 
   <li>Temperature Program</li>
   <li>Trapezoid Program</li>
   <li>Grading Program</li>
-  <li>Take Home Test</li>
+  <li>Jedi Training</li>
   </ol>
