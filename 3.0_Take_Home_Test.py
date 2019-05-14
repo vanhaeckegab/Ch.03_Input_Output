@@ -15,7 +15,8 @@ but I will definitely not ask another person except the instructor. Signed: ____
 # 4. Ask a user for an integer and then print the square root.
 
 
-# 5. Good Star Wars joke: "May the mass times acceleration be with you!" because F=ma. Ask the user for mass and acceleration and then print out the Force on one line and "Get it?" on the next.
+# 5. Good Star Wars joke: "May the mass times acceleration be with you!" because F=ma. 
+#    Ask the user for mass and acceleration and then print out the Force on one line and "Get it?" on the next.
 
 
 
