@@ -1,10 +1,10 @@
 #Sign your name:________________
 
 
-# 1.) Write a program that asks someone for their name and then prints their name to the screen?
+# 1.) Write a program that asks someone for their name and then prints a greeting that uses their name.
 
 
-# 2. Write a a program where a user enters a base and height and you print the area of a triangle.
+# 2. Write a program where a user enters a base and height and you print the area of a triangle.
 
 
 # 3. Write a line of code that will ask the user for the radius of a circle and then prints the circumference.
