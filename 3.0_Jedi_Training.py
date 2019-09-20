@@ -1,4 +1,5 @@
-#Sign your name:________________
+# Sign your name:________________
+# In all the short programs below, do a good job communicating with your end user!
 
 
 # 1.) Write a program that asks someone for their name and then prints a greeting that uses their name.
