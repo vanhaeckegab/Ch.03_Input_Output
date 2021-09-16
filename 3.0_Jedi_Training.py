@@ -27,4 +27,3 @@ input("What is the mass of your object? ")
 input("What is the acceleration of the object? ")
 print("The Force")
 print("Get it")
-#comment
