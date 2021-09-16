@@ -13,6 +13,5 @@ In: -40  Out: ??? Please tell me what this output is!
 
 '''
 
-
-
-
+f = float(input("What is the temperature outside? "))
+print((f-32)*(5/9))
